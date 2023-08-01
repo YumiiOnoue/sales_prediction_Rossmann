@@ -31,5 +31,6 @@ Por fim, nas hipóteses de tempo:
 - os feriados escolares
 
 ## Estratégias e soluções
+Os dados foram obtidos do site do Kagle e foram realizados a limpeza e tratamentos do dataset. Logo em seguido realizei a análise exploratória para verificar a relação dos dados que estou trabalhando e testar as hipóteses citadas anteriormente.
 
 ## Conclusões
