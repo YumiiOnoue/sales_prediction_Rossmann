@@ -9,14 +9,14 @@ A Rossmann opera em mais de 3.000 drogarias em 7 países europeus. Atualmente, o
 ## Premissas do negócio
 Foram utilizados três categorias de hipóteses, sobre as lojas, sobre os produtos e sobre o tempo. 
 
-Nas hipóteses sobre a loja considerei os seguintes itens: 
+Nas hipóteses sobre as lojas considerei os seguintes itens: 
 - o quadro de funcinários,
 - a quantidade de estoque,
 - o porte da empresa,
 - os competidores e
 - o sortimento.
 
-Nas hipóteses do produto foram analizados:
+Nas hipóteses dos produtos foram analizados:
 - o investimento em marketing, 
 - a exposição dos produtos nas vitrines,
 - os preços e
