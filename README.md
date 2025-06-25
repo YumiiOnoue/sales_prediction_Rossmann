@@ -3,7 +3,6 @@
 ## Problema de negócio
 A Rossmann opera em mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes das lojas da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas da loja são influenciadas por muitos fatores e são geridas por diferentes pessoas, gerando resultados diferentes para cada unidade e considerando somente suas condições individuais. Portanto, este projeto tem como objetivo obter uma previsão mais precisa das vendas de cada loja.
 
-
 ## Premissas do negócio
 Foram utilizados três categorias nas hipóteses, que são elas: sobre as lojas, sobre os produtos e sobre o tempo. 
 
@@ -31,7 +30,12 @@ Por fim, nas hipóteses de tempo:
 ## Estratégias e soluções
 Os dados foram obtidos do site do [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/data?select=store.csv), e foram realizados a limpeza e tratamentos do dataset. Logo em seguido realizei a análise exploratória para verificar a relação dos dados que estou trabalhando e testar as hipóteses citadas anteriormente.
 
-Para selecionar as melhores variáveis foi utilizado o Boruta e com as features selecionados foram aplicados 6 tipos de modelos: average model, Linear Regression Model, Linear Regression Regularized Model - Lasso, Random Forest Regressor e o XGBoost Regressor.
+Para selecionar as melhores variáveis foi utilizado o Boruta e com as features selecionados foram aplicados 6 tipos de modelos: 
+* Average Model
+* Linear Regression Model
+* Linear Regression Regularized Model - Lasso
+* Random Forest Regressor
+* XGBoost Regressor
  
 
 ## Conclusões
