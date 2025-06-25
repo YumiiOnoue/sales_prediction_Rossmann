@@ -27,6 +27,9 @@ Por fim, nas hipóteses de tempo:
 - as vendas nos finais de semana e
 - os feriados escolares
 
+### Mapa mental das hipóteses
+<img src="img/Daily_Store_Sales.png" alt="Hipóteses" width="800" height="500"/>
+
 ## Estratégias e soluções
 Os dados foram obtidos do site do [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/data?select=store.csv), e foram realizados a limpeza e tratamentos do dataset. Logo em seguido realizei a análise exploratória para verificar a relação dos dados que estou trabalhando e testar as hipóteses citadas anteriormente.
 
@@ -36,6 +39,3 @@ Para selecionar as melhores variáveis foi utilizado o Boruta e com as features 
 * Linear Regression Regularized Model - Lasso
 * Random Forest Regressor
 * XGBoost Regressor
- 
-
-## Conclusões
