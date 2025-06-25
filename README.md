@@ -1,7 +1,5 @@
 # Previsão de vendas - Rossmann
 
-Projeto em andamento 
-
 ## Problema de negócio
 A Rossmann opera em mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes das lojas da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas da loja são influenciadas por muitos fatores e são geridas por diferentes pessoas, gerando resultados diferentes para cada unidade e considerando somente suas condições individuais. Portanto, este projeto tem como objetivo obter uma previsão mais precisa das vendas de cada loja.
 
