@@ -29,7 +29,7 @@ Por fim, nas hipóteses de tempo:
 - os feriados escolares
 
 ## Estratégias e soluções
-Os dados foram obtidos do site do Kagle, e foram realizados a limpeza e tratamentos do dataset. Logo em seguido realizei a análise exploratória para verificar a relação dos dados que estou trabalhando e testar as hipóteses citadas anteriormente.
+Os dados foram obtidos do site do Kaggle, e foram realizados a limpeza e tratamentos do dataset. Logo em seguido realizei a análise exploratória para verificar a relação dos dados que estou trabalhando e testar as hipóteses citadas anteriormente.
 
 Para selecionar as melhores variáveis foi utilizado o Boruta e com as features selecionados foram aplicados 6 tipos de modelos: average model, Linear Regression Model, Linear Regression Regularized Model - Lasso, Random Forest Regressor e o XGBoost Regressor.
  
